@@ -17,7 +17,7 @@
 .form {
   width: 600px;
   height: 600px;
-  padding: 20px;
+  padding: 30px;
   backdrop-filter: blur(12px);
   display: flex;
   align-items: center;
